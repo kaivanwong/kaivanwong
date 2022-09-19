@@ -14,6 +14,7 @@ I'm Kaivan Wong. A front-end Engineer. 🧑🏻‍💻
 <code><img height="20" src="https://bjetxgzv.cdn.bspapp.com/VKCEYUGU-dc-site/9a952c80-6080-11eb-a16f-5b3e54966275.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>&nbsp;
 <code><img height="20" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>&nbsp;
 
 ### 🍁 &nbsp;My Stats
 
