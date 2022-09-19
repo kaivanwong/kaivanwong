@@ -1,6 +1,8 @@
-### Hi there 👋
+### 👋 Hi there 
 
-I'm Kaivan Wong. A front-end Engineer. 🧑🏻‍💻
+I'm Kaivan Wong. A front-end Engineer. 
+
+Email: kaivanwong@outlook.com
 
 ### 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
