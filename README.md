@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I'm Kaivan Wong. A front-end Engineer. 
+I'm Kaivan Wong. Committed to front-end business infrastructure.
 
 Email: kaivanwong@outlook.com
 
