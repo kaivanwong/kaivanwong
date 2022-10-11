@@ -2,8 +2,6 @@
 
 I'm Kaivan Wong, a front-end engineer. Here are some open source projects that may help you.
 
-[wings-vue](https://github.com/kaivanwong/wings-vue), [u-shop](https://github.com/kaivanwong/u-shop), [we-wash-car](https://github.com/kaivanwong/we-wash-car)
-
 If you have any questions, please feel free to send me an email at kaivanwong@outlook.com.
 
 ### 🛠 &nbsp;Tech Stack
