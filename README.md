@@ -1,8 +1,10 @@
 ### 👋 Hi there 
 
-I'm Kaivan Wong. Committed to front-end business infrastructure.
+I'm Kaivan Wong, a front-end engineer. Here are some open source projects that may help you.
 
-Email: kaivanwong@outlook.com
+[wings-vue](https://github.com/kaivanwong/wings-vue) | [u-shop](https://github.com/kaivanwong/u-shop) | [we-wash-car](https://github.com/kaivanwong/we-wash-car)
+
+If you have any questions, please feel free to send me an email at kaivanwong@outlook.com.
 
 ### 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
