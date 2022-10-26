@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I'm Kaivan Wong, a front-end engineer. Here are some open source projects that may help you.
+I'm Kaivan Wong, a front-end engineer. Working on open source projects related to [Wings Cloud](https://github.com/wingscloud).
 
 If you have any questions, please feel free to send me an email at kaivanwong@outlook.com.
 
