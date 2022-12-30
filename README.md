@@ -15,6 +15,10 @@ If you have any questions, please feel free to send me an email at kaivanwong@ou
 <code><img height="20" src="https://bjetxgzv.cdn.bspapp.com/VKCEYUGU-dc-site/9a952c80-6080-11eb-a16f-5b3e54966275.png"></code>&nbsp;
 <code><img height="20" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>&nbsp;
 <code><img height="20" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4"></code>&nbsp;
+<code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/2f6479d73bc25170dc532dd42e059166573bf478/61057/favicon.svg"></code>&nbsp;
+<code><img height="20" src="https://uno.antfu.me/play/icon-gray.svg"></code>&nbsp;
+<code><img height="20" src="https://viteconf.org/projects/vitest.svg"></code>&nbsp;
+<code><img height="20" src="https://viteconf.org/projects/pnpm.svg"></code>&nbsp;
 
 ### 🍁 &nbsp;My Stats
 
