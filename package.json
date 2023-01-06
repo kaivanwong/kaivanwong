@@ -1,6 +1,6 @@
 {
   "name": "kaivanwong",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hi, I am Kaivan Wong",
   "bugs": "https://github.com/kaivanwong/kaivanwong",
   "repository": {
@@ -10,6 +10,9 @@
   "license": "MIT",
   "author": "Kaivan Wong <kaivanwong@outlook.com>",
   "main": "index.js",
+  "bin": {
+    "kaivanwong": "./index.js"
+  },
   "files": [
     "index.js",
     "README.md"
