@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I'm Kaivan Wong, a front-end engineer. Working on open source projects related to [Wings Cloud](https://github.com/wingscloud).
+I'm Kaivan Wong, a front-end engineer. Creator of [Wings Cloud](https://github.com/wingscloud).
 
 Find me on [GitHub](https://github.com/kaivanwong), [Twitter](https://twitter.com/kaivan_wong), [掘金](https://juejin.cn/user/1099167360882414), [知乎](https://www.zhihu.com/people/kaivanwong) or [哔哩哔哩](https://space.bilibili.com/190014206) .
 
