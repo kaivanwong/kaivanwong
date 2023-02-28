@@ -2,7 +2,9 @@
 
 I'm Kaivan Wong, a front-end engineer. Working on open source projects related to [Wings Cloud](https://github.com/wingscloud).
 
-Find me on [Github](https://github.com/kaivanwong), [Twitter](https://twitter.com/kaivan_wong), [Personal Website](https://kaivanwong.me). Mail me at kaivanwong@outlook.com.
+Find me on [GitHub](https://github.com/kaivanwong), [Twitter](https://twitter.com/kaivan_wong), [掘金](https://juejin.cn/user/1099167360882414), [知乎](https://www.zhihu.com/people/kaivanwong) or [哔哩哔哩](https://space.bilibili.com/190014206) .
+
+Mail me at [kaivanwong@outlook.com](mailto:kaivanwong@outlook.com).
 
 ### 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
