@@ -1,6 +1,7 @@
 {
   "name": "kaivanwong",
-  "version": "0.0.4",
+  "type": "module",
+  "version": "0.0.5",
   "description": "Personal github home page welcomes readme file",
   "author": "Kaivan Wong <kaivanwong@outlook.com>",
   "license": "Apache 2.0",
@@ -19,7 +20,8 @@
   "files": [
     "index.js",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "avatars"
   ],
   "dependencies": {
     "open": "^8.2.1"
