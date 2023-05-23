@@ -2,10 +2,6 @@
 
 Hey, I am Kaivan, a Front-end Engineer. Creator of [Wings Cloud](https://github.com/wingscloud). Focus on Vue, Vite, Nuxt, Nest & etc.
 
-Find me on [Personal Website](https://kaivanwong.me), [Github](https://github.com/kaivanwong), [Twitter](https://twitter.com/kaivan_wong), [Instagram](https://www.instagram.com/kaivan_wong), [知乎](https://www.zhihu.com/people/kaivanwong) or [哔哩哔哩](https://space.bilibili.com/190014206) .
-
-Mail me at [kaivanwong@outlook.com](mailto:kaivanwong@outlook.com).
-
 ### 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
