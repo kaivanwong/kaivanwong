@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-My name is Kaivan Wong. I'm a front-end engineer and the author of [Nature Libs](https://github.com/naturelibs). 
+My name is Kaivan Wong. I'm a front-end engineer, the author of [Nature Libs](https://github.com/naturelibs), [Nature Libs Open](https://github.com/naturelibs-open). 
 
 I like to use engineering methods to solve complex problems, rather than specific framework and library syntax problems.
 
