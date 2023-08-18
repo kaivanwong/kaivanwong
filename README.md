@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-My name is Kaivan Wong. I'm a front-end engineer, the author of [Nature Libs](https://github.com/naturelibs), [Template App](https://github.com/template-app). 
+My name is Kaivan Wong. I'm a front-end engineer, the author of [Template App](https://github.com/template-app), focus on [Vue](https://vuejs.org/), [Vite](https://vitejs.dev/), [Nuxt](https://nuxt.com/) & etc. 
 
 I like to use engineering methods to solve complex problems, rather than specific framework and library syntax problems.
 
