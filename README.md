@@ -1,5 +1,10 @@
 ### Hi there 👋
 
-My name is Kaivan Wong, a front-end engineer who wants to be a full stack engineer.
-
-Currently, I'm focused on building a modern full-stack development platform called [Stack Nax](https://stacknax.com).
+<p>
+  <samp>
+    <a href="https://kaivanwong.me/posts">Blogs</a> .
+    <a href="https://github.com/kaivanwong/eslint-config">Eslint Config</a> .
+    <a href="https://github.com/kaivanwong/prettier-config">Eslint Config</a> .
+    <a href="https://github.com/kaivanwong/vscode-settings">VS Code Settings</a>
+  </samp>
+</p>
