@@ -18,5 +18,5 @@ Something I use when I write code: <samp>
 </p>
 
 <p>
-For more information you can visit my <a href="https://kaivanwong.me/posts">personal website</a>.
+For more information you can visit my <a href="https://kaivanwong.me">personal website</a>.
 </p>
