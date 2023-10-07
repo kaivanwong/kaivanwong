@@ -12,7 +12,7 @@ I'm working on an open source project called  <a href="https://github.com/stackn
 Something I use when I write code: <samp>
     <a href="https://github.com/kaivanwong/antfu-config">Eslint Config</a> .
     <a href="https://github.com/kaivanwong/vscode-midnight-theme">Midnight Theme for VS Code</a>
-  </samp>
+  </samp>.
 </p>
 
 <p>
