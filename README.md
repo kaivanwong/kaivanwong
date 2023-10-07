@@ -5,7 +5,7 @@ My name is Kaivan Wong. I'm a front-end engineer with perfectionism (it's not al
 </p>
 
 <p>
-I am working on an open source project called  <a href="https://github.com/stacknax">Stack Nax 💚</a>, and using the Vue.js, React.js, TypeScript for web application development.
+I'm working on an open source project called  <a href="https://github.com/stacknax">Stack Nax 💚</a>, and using the Vue.js, React.js, TypeScript for web application development.
 </p>
 
 <p>
