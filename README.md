@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 <p>
-  <samp>
-    <a href="https://kaivanwong.me/posts">Blogs</a> .
-    <a href="https://github.com/kaivanwong/eslint-config">Eslint Config</a> .
-    <a href="https://github.com/kaivanwong/prettier-config">Prettier Config</a> .
-    <a href="https://github.com/kaivanwong/vscode-settings">VS Code Settings</a>
-  </samp>
+My name is Kaivan Wong. I'm a front-end engineer with perfectionism (it's not always good :p). 
+</p>
+
+<p>
+I'm working on an open source project called  <a href="https://github.com/stacknax">Stack Nax 💚</a>, and often using the JavaScript / TypeScript, Rust to develop software.
+</p>
+
+<p>
+For more information you can visit my <a href="https://kaivanwong.me">personal website</a>.
 </p>
