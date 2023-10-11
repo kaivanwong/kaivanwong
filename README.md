@@ -9,5 +9,5 @@ I'm working on an open source project called  <a href="https://github.com/stackn
 </p>
 
 <p>
-For more information you can visit my <a href="https://kaivanwong.me">personal portfolio</a>.
+For more information you can view the <a href="https://kaivanwong.me">portfolio</a>.
 </p>
