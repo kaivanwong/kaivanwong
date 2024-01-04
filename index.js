@@ -1,4 +1,6 @@
 #!/usr/bin/env node
 'use strict'
 
-require('open')('https://kaivanwong.me')
+import open from 'open'
+
+open('https://kaivanwong.me')

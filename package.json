@@ -1,9 +1,11 @@
 {
   "name": "kaivanwong",
+  "type": "module",
   "version": "0.0.6",
-  "description": "Personal github home page welcomes readme file",
+  "packageManager": "pnpm@8.11.0",
+  "description": "My personal profile repo for github.",
   "author": "Kaivan Wong <kaivanwong@outlook.com>",
-  "license": "Apache 2.0",
+  "license": "MIT License",
   "homepage": "https://github.com/kaivanwong/kaivanwong#readme",
   "repository": {
     "type": "git",
@@ -14,22 +16,38 @@
   },
   "main": "index.js",
   "bin": {
-    "wingscloud": "./index.js"
+    "kaivanwong": "./index.js"
   },
   "files": [
-    "index.js",
-    "README.md",
     "LICENSE",
-    "avatars"
+    "README.md",
+    "avatars",
+    "favicon",
+    "index.js"
   ],
+  "engines": {
+    "node": ">=14.18.1"
+  },
+  "scripts": {
+    "postinstall": "simple-git-hooks",
+    "release": "bumpp && pnpm publish",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
   "dependencies": {
     "open": "^8.2.1"
   },
   "devDependencies": {
-    "@kaivanwong/eslint-config": "^0.13.14",
-    "eslint": "^8.36.0"
+    "@antfu/eslint-config": "^2.6.1",
+    "bumpp": "^9.2.1",
+    "eslint": "^8.46.0",
+    "lint-staged": "^15.2.0",
+    "simple-git-hooks": "^2.9.0"
   },
-  "eslintConfig": {
-    "extends": "@kaivanwong"
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "pnpm lint:fix"
   }
 }
