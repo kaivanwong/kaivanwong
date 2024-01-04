@@ -1,7 +1,7 @@
 {
   "name": "kaivanwong",
   "type": "module",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "packageManager": "pnpm@8.11.0",
   "description": "My personal profile repo for github.",
   "author": "Kaivan Wong <kaivanwong@outlook.com>",
