@@ -2,10 +2,11 @@
   "name": "kaivanwong",
   "type": "module",
   "version": "0.2.1",
-  "packageManager": "pnpm@8.11.0",
+  "packageManager": "pnpm@8.14.1",
   "description": "My personal profile repo for github.",
   "author": "Kaivan Wong <kaivanwong@outlook.com>",
   "license": "MIT License",
+  "funding": "https://github.com/sponsors/kaivanwong",
   "homepage": "https://github.com/kaivanwong/kaivanwong#readme",
   "repository": {
     "type": "git",
@@ -14,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/kaivanwong/kaivanwong/issues"
   },
-  "main": "index.js",
+  "main": "./index.js",
   "bin": {
     "kaivanwong": "./index.js"
   },
@@ -30,7 +31,7 @@
   },
   "scripts": {
     "postinstall": "simple-git-hooks",
-    "release": "bumpp && pnpm publish",
+    "release": "bumpp",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
