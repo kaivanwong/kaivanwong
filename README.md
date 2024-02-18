@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <samp>
     <span>👋 Hi there, you can click on them to visit: </span>
     <a href="https://kaivanwong.me">Personal Website</a> ·
